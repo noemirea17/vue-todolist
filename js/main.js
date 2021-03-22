@@ -1,7 +1,7 @@
 var app = new Vue({
   el: "#root",
   data: {
-    list: ["fare i compiti", "allenarsi", "fare la spesa"],
+    list: [],
     newtext: "",
   },
   methods: {
